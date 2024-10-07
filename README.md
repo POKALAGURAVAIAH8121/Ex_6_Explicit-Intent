@@ -14,7 +14,7 @@ Latest Version Android Studio
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
 Step 2: Then type the Application name as “contentprovider″ and click Next.
-
+ 
 Step 3: Then select the Minimum SDK as shown below and click Next.
 
 Step 4: Then select the Empty Activity and click Next. Finally click Finish.
